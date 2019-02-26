@@ -19,6 +19,7 @@ public class Ejemplo {
         System.out.println("Hola Mundo");
         System.out.println("Hola otra vez");
         System.out.println("Francisco y dani");
+        Alumno al = new Alumno("Francisco", "Perez", "Ramos", 19, 22.2);
     }
     
 }
